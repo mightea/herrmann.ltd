@@ -1,0 +1,2 @@
+# herrmann.ltd
+Static Website
